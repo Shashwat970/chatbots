@@ -25,6 +25,14 @@ Each bot is tailored to serve specific purposes, from automating data analysis t
 
 ## 🤖 Featured Bots
 
+### 0. **IP Checker Chat**
+- Role: Checks IP address for flagged, malicious IPs
+- Tech: Python, streamlit, ipadressses
+- Features:
+  - takes IP addresses and analyse it if it is malicious
+
+---
+
 ### 1. **CyberGuard**
 - Role: Monitors logs, detects threats, explains vulnerabilities.
 - Tech: Python, Regex, NLTK, Flask
